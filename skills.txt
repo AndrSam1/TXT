@@ -1,0 +1,10 @@
+1: Strong attention to detail
+2: Critical thinking skills
+3: Analytical skills
+4: Problem-solving skills
+5: Knowledge of software testing methodologies
+6: Understanding of software development life cycle
+7: Ability to document and report defects
+8: Excellent communication skills
+9: Knowledge of automation tools
+10: Knowledge of programming languages
